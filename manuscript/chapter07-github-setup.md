@@ -30,7 +30,8 @@ That's it. No git commands to memorize. v0 handles everything else.
 
 ## Step 1: Create GitHub Account
 
-![](/images/Chapter07/Chapter07_Login.png)
+![](./images/Chapter07/Chapter07_Login.png)
+
 Go to [github.com/signup](https://github.com/signup)
 
 1. Enter your email
