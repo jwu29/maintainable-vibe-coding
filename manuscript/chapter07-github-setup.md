@@ -30,7 +30,7 @@ That's it. No git commands to memorize. v0 handles everything else.
 
 ## Step 1: Create GitHub Account
 
-![](./images/Chapter07/Chapter07_Login.png)
+![](./images/Chapter07/Chapter07_01-Login.png)
 
 Go to [github.com/signup](https://github.com/signup)
 
@@ -48,7 +48,10 @@ Go to [github.com/signup](https://github.com/signup)
 
 A repository (repo) is where your code lives on GitHub.
 
-1. Go to [github.com/new](https://github.com/new)
+![](./images/Chapter07/Chapter07_02-Home.png)
+1. Go to [github.com/new](https://github.com/new) by clicking on the "+" button >> "New repository".
+
+![](./images/Chapter07/Chapter07_03-CreateRepo.png)
 2. Repository name: `readstack` (or whatever you're building)
 3. Description: "Personal read-it-later app" (optional but helpful)
 4. **Public** or **Private**: Your choice
