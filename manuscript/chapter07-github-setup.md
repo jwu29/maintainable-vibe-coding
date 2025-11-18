@@ -94,8 +94,7 @@ Homebrew 4.4.32
 which you can move onto Step 3.
 
 
-3. 
-Type the command below:
+3. Install the GitHub CLI.
 ```bash
 brew install gh
 ```
@@ -113,7 +112,7 @@ v1.12.350
 ```
 which you can move onto Step 3.
 
-3. Install GitHub CLI.
+3. Install the GitHub CLI.
 ```bash
 winget install --id GitHub.cli
 ```
