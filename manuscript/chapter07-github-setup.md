@@ -48,15 +48,17 @@ Go to [github.com/signup](https://github.com/signup)
 
 A repository (repo) is where your code lives on GitHub.
 
-![](./images/Chapter07/Chapter07_02-Home.png)
 1. Go to [github.com/new](https://github.com/new) by clicking on the "+" button >> "New repository".
+![](./images/Chapter07/Chapter07_02-Home.png)
 
+You will then land on a page where you can configure your repository settings.
 ![](./images/Chapter07/Chapter07_03-CreateRepo.png)
 2. Repository name: `readstack` (or whatever you're building)
 3. Description: "Personal read-it-later app" (optional but helpful)
 4. **Public** or **Private**: Your choice
    - Public: Anyone can see your code (good for portfolio)
    - Private: Only you can see it
+If you're not sure, select **Public**.
 5. **Important:** Leave everything else unchecked
    - Don't add README
    - Don't add .gitignore
