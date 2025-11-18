@@ -77,13 +77,29 @@ If you're not sure, select **Public**.
 ## Step 3: Install GitHub CLI
 
 The GitHub CLI (`gh`) lets v0 connect to your GitHub account securely.
+This is readily installable via your computer's package manager (Homebrew for macOS, WinGet for Windows, etc.)
 
 **Mac:**
+In the search bar, search for the "Terminal" application and open it.
+
+Type the command below:
 ```bash
 brew install gh
 ```
 
 **Windows:**
+1. In the search bar, search for the "Command Prompt" application and open it.
+
+2. Verify that the package manager is installed on your computer. Type
+```bash
+winget --version
+```
+If it's installed, the expected output would be
+```bash
+v1.12.350
+```
+
+3. Install Github CLI
 ```bash
 winget install --id GitHub.cli
 ```
