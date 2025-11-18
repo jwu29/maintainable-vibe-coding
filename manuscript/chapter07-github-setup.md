@@ -113,7 +113,7 @@ v1.12.350
 ```
 which you can move onto Step 3.
 
-3. Install Github CLI
+3. Install GitHub CLI.
 ```bash
 winget install --id GitHub.cli
 ```
