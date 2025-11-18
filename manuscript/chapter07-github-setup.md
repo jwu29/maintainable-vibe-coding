@@ -79,25 +79,39 @@ If you're not sure, select **Public**.
 The GitHub CLI (`gh`) lets v0 connect to your GitHub account securely.
 This is readily installable via your computer's package manager (Homebrew for macOS, WinGet for Windows, etc.)
 
-**Mac:**
-In the search bar, search for the "Terminal" application and open it.
+**<ins>Mac:</ins>**
+1. In the search bar, search for the "Terminal" application and open it.
 
+2. Verify that the package manager **Homebrew** is installed on your computer. Type
+```bash
+brew --version
+```
+
+If it's installed, the output would display the application version number WITHOUT an error message.
+```bash
+Homebrew 4.4.32
+```
+which you can move onto Step 3.
+
+
+3. 
 Type the command below:
 ```bash
 brew install gh
 ```
 
-**Windows:**
+**<ins>Windows:</ins>**
 1. In the search bar, search for the "Command Prompt" application and open it.
 
-2. Verify that the package manager is installed on your computer. Type
+2. Verify that the package manager **WinGet** is installed on your computer. Type
 ```bash
 winget --version
 ```
-If it's installed, the expected output would be
+If it's installed, the output would display the application version number WITHOUT an error message.
 ```bash
 v1.12.350
 ```
+which you can move onto Step 3.
 
 3. Install Github CLI
 ```bash
