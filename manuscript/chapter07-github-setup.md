@@ -61,7 +61,8 @@ You will then land on a page where you can configure your repository settings.
 4. **Public** or **Private**: Your choice
    - Public: Anyone can see your code (good for portfolio)
    - Private: Only you can see it
-If you're not sure, select **Public**.
+
+If you're not sure, choose **Public**.
 
 5. **Important:** Leave everything else unchecked
    - Don't add README
