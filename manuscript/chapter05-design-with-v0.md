@@ -75,8 +75,8 @@ Style: Clean, minimal SaaS aesthetic
 
 ### 1. Generate
 
-1. Go to [v0.dev](https://v0.dev)
-2. Click "New Design"
+1. Go to [v0.app](https://v0.app) >> "Projects" on the left navigation panel.
+2. Click "New Project"
 3. Paste your prompt
 4. Click "Generate"
 5. Wait 10-20 seconds
