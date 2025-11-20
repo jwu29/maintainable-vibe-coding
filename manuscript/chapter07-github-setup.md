@@ -168,12 +168,18 @@ You'll see a series of prompts:
 Now the magic happens. v0 handles all git operations automatically.
 
 1. Open your v0 project
-2. Look for the **GitHub icon** in the top-right toolbar
-3. Click it
-4. Click "Connect to GitHub"
-5. Allow v0 to access your GitHub account (one-time authorization)
-6. **Select your repository:** Find `readstack` (or whatever you named it)
+2. Click on the **GitHub icon** in the top-right toolbar
+![](./images/Chapter07/Chapter07_06-v0GitHubConnect.png)
+
+3. Click "Connect to GitHub"
+4. Allow v0 to access your GitHub account (one-time authorization)
+5. Confirm GitHub access to Vercel
+![](./images/Chapter07/Chapter07_07-GitHubPopUp.png)
+
+6. **Fill in name for your repository:** Could name it `readstack`, or whatever you want to name it.
 7. **Select branch:** Keep the default (`main`)
+![](./images/Chapter07/Chapter07_08-GitHubBranch.png)
+
 8. Click "Connect"
 
 **Result:** v0 creates initial commit and pushes your code to GitHub automatically.
