@@ -154,12 +154,14 @@ You'll see a series of prompts:
 **Then:**
 1. Copy the one-time code shown (8 characters)
 2. Press Enter
-3. Browser opens to GitHub
+3. Browser opens to GitHub. It may ask you to log in to your GitHub account again.
 4. Paste the code
 5. Click "Authorize GitHub CLI"
 6. Return to terminal - should show "✓ Logged in as yourusername"
 
-**Done.** Your computer can now talk to GitHub.
+**Done.** Your computer is now connected to GitHub!
+
+![](./images/Chapter07/Chapter07_05-GitHubCLILoginWindows.png)
 
 ## Step 5: Connect v0 to GitHub
 
