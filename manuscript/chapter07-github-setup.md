@@ -101,7 +101,6 @@ brew install gh
 ```
 
 **<ins>Windows:</ins>**
-![](./images/Chapter07/Chapter07_04-GitHubInstallWindows.png)
 1. In the search bar, search for the "Windows Powershell" application and open it.
 
 2. Verify that the package manager **WinGet** is installed on your computer. Type
@@ -118,6 +117,7 @@ which you can move onto Step 3.
 ```bash
 winget install --id GitHub.cli
 ```
+![](./images/Chapter07/Chapter07_04-GitHubCLIInstallWindows.png)
 
 **Linux:**
 See [cli.github.com](https://cli.github.com) for your distribution.
