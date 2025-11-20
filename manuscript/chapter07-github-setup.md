@@ -101,6 +101,7 @@ brew install gh
 ```
 
 **<ins>Windows:</ins>**
+![](./images/Chapter07/Chapter07_04-GitHubInstallWindows.png)
 1. In the search bar, search for the "Windows Powershell" application and open it.
 
 2. Verify that the package manager **WinGet** is installed on your computer. Type
