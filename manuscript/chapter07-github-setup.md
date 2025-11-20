@@ -100,6 +100,8 @@ which you can move onto Step 3.
 brew install gh
 ```
 
+![](./images/Chapter07/Chapter07_04b-GitHubCLIInstallApple.png)
+
 **<ins>Windows:</ins>**
 1. In the search bar, search for the "Windows Powershell" application and open it.
 
