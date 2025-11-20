@@ -101,7 +101,7 @@ brew install gh
 ```
 
 **<ins>Windows:</ins>**
-1. In the search bar, search for the "Command Prompt" application and open it.
+1. In the search bar, search for the "Windows Powershell" application and open it.
 
 2. Verify that the package manager **WinGet** is installed on your computer. Type
 ```bash
