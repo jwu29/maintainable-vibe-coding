@@ -94,7 +94,7 @@ which you can move onto Step 3. Otherwise, install Homebrew through this [websit
 brew install node
 ```
 
-**Linux/WSL:**
+**<ins>Linux/WSL:</ins>**
 ```bash
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt install -y nodejs
