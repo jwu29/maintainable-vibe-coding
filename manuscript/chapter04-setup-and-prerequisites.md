@@ -58,6 +58,10 @@ Go to [claude.ai](https://claude.ai)
 
 ### Install Node.js
 
+**<ins>Windows:</ins>**
+1. In the search bar, search for the "Windows Powershell" application and open it.
+
+2. Verify that the package manager **WinGet** is installed on your computer. Type
 **Check if you have it:**
 ```bash
 node --version
@@ -65,7 +69,7 @@ node --version
 
 If you see v18 or v20+, skip to next section.
 
-**macOS:**
+**<ins>macOS:</ins>**
 ```bash
 brew install node
 ```
