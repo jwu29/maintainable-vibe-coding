@@ -67,7 +67,10 @@ Go to [claude.ai](https://claude.ai)
 node --version
 ```
 
-If you see v18 or v20+, skip to next section.
+If you see v18 or v20+, proceed to "Installing Git".
+Otherwise, download from the Windows Installer of [Node.js Home Page](https://nodejs.org/en/download).
+
+![](./images/Chapter04/Chapter04_01-InstallNodeJSWindows.png)
 
 **<ins>macOS:</ins>**
 ```bash
