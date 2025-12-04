@@ -73,6 +73,23 @@ Otherwise, download from the Windows Installer of [Node.js Home Page](https://no
 ![](./images/Chapter04/Chapter04_01-InstallNodeJSWindows.png)
 
 **<ins>macOS:</ins>**
+
+1. In the search bar, search for the "Terminal" application and open it.
+
+2. Verify that the package manager **Homebrew** is installed on your computer. Type
+```bash
+brew --version
+```
+
+If it's installed, the output would display the application version number WITHOUT an error message.
+```bash
+Homebrew 4.4.32
+```
+which you can move onto Step 3. Otherwise, install Homebrew through this [website](https://brew.sh/).
+
+![](./images/Chapter04/Chapter04_02-InstallHomebrewMac)
+
+3. Once Homebrew is installed, install Node.js by issuing the following command.
 ```bash
 brew install node
 ```
