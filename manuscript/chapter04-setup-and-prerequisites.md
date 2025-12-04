@@ -87,7 +87,7 @@ Homebrew 4.4.32
 ```
 which you can move onto Step 3. Otherwise, install Homebrew through this [website](https://brew.sh/).
 
-![](./images/Chapter04/Chapter04_02-InstallHomebrewMac)
+![](./images/Chapter04/Chapter04_02-InstallHomebrewMac.png)
 
 3. Once Homebrew is installed, install Node.js by issuing the following command.
 ```bash
