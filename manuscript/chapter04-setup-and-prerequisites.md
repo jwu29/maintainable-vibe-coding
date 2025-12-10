@@ -166,6 +166,11 @@ Choose:
 curl -fsSL https://claude.ai/install.sh | sh
 ```
 
+**Windows**
+```bash
+irm https://claude.ai/install.ps1 | iex
+```
+
 **Verify:**
 ```bash
 claude-code --version
