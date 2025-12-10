@@ -148,6 +148,7 @@ sudo apt update
 sudo apt install gh -y
 ```
 
+<br />
 **Login:**
 ```bash
 gh auth login
