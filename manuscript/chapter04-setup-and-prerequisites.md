@@ -139,7 +139,7 @@ Choose:
 
 **macOS/Linux/WSL:**
 ```bash
-curl -fsSL https://claude.ai/install.sh | sh
+curl -fsSL https://claude.ai/install.sh | bash
 ```
 
 **Verify:**
