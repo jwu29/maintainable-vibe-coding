@@ -163,7 +163,7 @@ Choose:
 
 **macOS/Linux/WSL:**
 ```bash
-curl -fsSL https://claude.ai/install.sh | sh
+curl -fsSL https://claude.ai/install.sh | bash
 ```
 
 **Windows**
@@ -189,7 +189,8 @@ Browser opens. Click "Authorize". Return to terminal.
 
 In Claude Code prompt (`>`):
 ```
-/plugins install superpowers
+/plugin marketplace add obra/superpowers-marketplace
+/plugin install superpowers@superpowers-marketplace
 ```
 
 **Verify:**
